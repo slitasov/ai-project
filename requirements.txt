@@ -1,0 +1,29 @@
+# Data & collector (websockets for md_collector.py)
+pandas>=2.0
+websockets>=12.0
+numpy>=1.24
+pyarrow>=14.0
+
+# Econometric / linear
+statsmodels>=0.14
+scikit-learn>=1.3
+
+# ML interpretation
+shap>=0.43
+
+# Optional: gradient boosting
+catboost>=1.2
+# xgboost>=2.0
+# lightgbm>=4.0
+
+# Plotting (for report figures)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Jupyter (notebooks)
+jupyter>=1.0
+ipykernel>=6.0
+
+# Report (PDF from Markdown/LaTeX)
+# pandoc – for md -> PDF if needed
+# Install system-wide: pandoc, latex (e.g. tinytex / MacTeX)
