@@ -12,9 +12,6 @@ build/
 .ipynb_checkpoints/
 notebooks/catboost_info/
 
-# Data
-data/
-
 # OS
 .DS_Store
 Thumbs.db
